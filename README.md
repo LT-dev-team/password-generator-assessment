@@ -31,4 +31,26 @@ You may decide to use a front-end framework...or not.
 
 ## Submitting your project
 
-You can just zip it up and email it back! You don't need to actually deploy this anywhere - if there is a procces to run a development server, you can drop it into this readme.
+
+### 1. **Fork the Repository**
+   - Click on the **Fork** button at the top right corner of the page. This action will create a copy of the repository in your GitHub account.
+
+### 2. **Clone the Forked Repository**
+   - After forking the repository, clone it to your local machine.
+
+### 3. **Complete the Assessment**
+   - Navigate to the cloned directory on your computer and open it in your preferred code editor.
+   - Complete the coding tasks as described in the `README.md` file or other specified documentation within the repository.
+
+### 4. **Commit Your Changes**
+   - As you complete tasks, make sure to commit your changes using Git. Here are the commands you might need:
+
+### 5. **Share Your Solution**
+   - Once you have completed the assessment and pushed all your changes to GitHub, share your repository with us for evaluation. Please send us the URL of your forked repository.
+   - Ensure your repository is public.
+
+We are looking forward to seeing your solutions. If you have any questions or encounter any issues, please feel free to reach out via `[Insert Contact Information]`.
+
+Best regards,
+
+LiquidThought
