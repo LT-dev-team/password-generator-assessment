@@ -49,7 +49,7 @@ You may decide to use a front-end framework...or not.
    - Once you have completed the assessment and pushed all your changes to GitHub, share your repository with us for evaluation. Please send us the URL of your forked repository.
    - Ensure your repository is public.
 
-We are looking forward to seeing your solutions. If you have any questions or encounter any issues, please feel free to reach out via `[Insert Contact Information]`.
+We are looking forward to seeing your solutions.Good luck.
 
 Best regards,
 
